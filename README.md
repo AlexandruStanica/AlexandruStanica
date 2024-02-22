@@ -6,9 +6,6 @@ Hey there!👋 Welcome to my GitHub profile. I'm a passionate Front-end Develope
 
 ## About Me
 
-- **Name:** Alexandru Stanica
-- **Location:** Bucharest, Romania
-- **Occupation:** Front-end Developer
 - **Favorite Tech Stack:** React.js, HTML5, CSS3, JavaScript
 - **Interests:** Web design & UI/UX
 
@@ -20,10 +17,6 @@ I'm particularly passionate about React.js. Its component-based architecture, vi
 
 - **UI/UX Design Skills:** I believe that a great user interface is the cornerstone of any successful web application. I pay meticulous attention to detail to ensure that the user experience is nothing short of exceptional.
 - **Collaborative Spirit:** I thrive in collaborative environments where ideas are shared freely, and teamwork is valued. I'm always eager to learn from others and contribute to the success of the team.
-
-## Let's Connect!
-
-I'm always excited to connect with fellow developers, designers, and tech enthusiasts. Whether you have a question about one of my projects, want to collaborate on a new idea, or just want to chat about all things tech, feel free to reach out to me. You can find me on [LinkedIn](https://www.linkedin.com/in/alexandru-stanica-9035411ab/).
 
 Thanks for stopping by, and happy coding! 🚀
 
